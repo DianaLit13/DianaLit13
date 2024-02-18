@@ -7,12 +7,12 @@
 
 
 
-<div id="socials" align="center" style="line-height: 0;">
-  <a href="https://www.linkedin.com/in/diana-ustinova-740295219" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border: 0;"></a>
+<div id="socials" align="center">
+  <a href="https://www.linkedin.com/in/diana-ustinova-740295219">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   
-  <a href="https://t.me/dianalitd" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="border: 0;"></a>
+  <a href="https://t.me/dianalitd">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </div>
 
 
