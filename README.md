@@ -1,16 +1,59 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZ5aGl1NmZ5N3V2bG5ncTFnM3lzeXFudjZqcW9oY2w3a2pucWRmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0hfEgeRNgwhZeK3kPq/giphy.gif" width="120"/>
+  <h1>Hi there, I'm  Diana </h1>
+  <h3>Front-end Developer and Entry-level Python Developer</h3>
+</div>
 
-<!--
-**DianaLit13/DianaLit13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="socials" align="center">
+    <a href="https://www.linkedin.com/in/diana-ustinova-740295219/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-Here are some ideas to get you started:
+ <a href="https://t.me/dianalitd">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+
+
+### About Me :
+- 🔭 I'm currently working on **HTML, CSS, and Python**
+- 🌱 I am currently learning Python and Java, Data science
+- 📫 Reach me on <a href="https://www.linkedin.com/in/diana-ustinova-740295219/" style="text-decoration: none; color: inherit;">LinkedIn</a> or <a href="https://t.me/dianalitd" style="text-decoration: none; color: inherit;">Telegram</a>.
+- 🌍 I speak English
+
+  
+---
+
+
+### Languages and Tools :
+
+
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="AfterEffects" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="JavaScript" alt="AfterEffects" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" **alt="Illustrator" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
+  </div>
+
+
+
+
+
+### My Stats :
+
+
+<div id="stat" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DianaLit13&theme=github_dark")
+" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DianaLit13&theme=github_dark" alt=""/>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DianaLit13&theme=github_dark" alt=""/>
+</div>
+
+---
