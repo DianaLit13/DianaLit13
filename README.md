@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZ5aGl1NmZ5N3V2bG5ncTFnM3lzeXFudjZqcW9oY2w3a2pucWRmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0hfEgeRNgwhZeK3kPq/giphy.gif" width="120"/>
   <h1>Hi there, I'm  Diana </h1>
-  <h3>Front-end Developer and Entry-level Python Developer</h3>
+  <h3>Front-end Developer</h3>
 </div>
 
 
